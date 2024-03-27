@@ -1,0 +1,4 @@
+rodar o projeto: python3 manage.py runserver
+para o projeto: ^ + c
+verificar migrações de banco: python3 manage.py makemigrations
+migrar: python3 manage.py migrate
