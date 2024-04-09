@@ -1,4 +1,7 @@
+criar um novo projeto: django-admin startproject <nome_do_projeto>
 rodar o projeto: python3 manage.py runserver
 para o projeto: ^ + c
 verificar migrações de banco: python3 manage.py makemigrations
 migrar: python3 manage.py migrate
+rodar testes com watch: DJANGO_SETTINGS_MODULE=projeto_dev_I.settings ptw
+criar uma nova app: python manage.py startapp <nome_da_app>
